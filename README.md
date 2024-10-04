@@ -1,1 +1,1 @@
-# matriz-incidwncia-aprendizado
+# matriz-incidencia-aprendizado
